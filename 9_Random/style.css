@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+#b {
+    background-color: red;
+    color: white;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 10px ;
+    border-style: double;
+    border-color: black;
+   
+}
+.la{
+    background-color: rgb(188, 188, 202);
+    color: white;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 10px ;
+    border-style: double;
+    border-color: black;
+    padding: auto;
+   
+}
