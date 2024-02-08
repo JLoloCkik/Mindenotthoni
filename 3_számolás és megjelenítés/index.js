@@ -8,7 +8,7 @@ let students = 70
 // így is lehet
 // students += 2
 
-// students ++
+// students ++  
 
 // console.log(students)
 

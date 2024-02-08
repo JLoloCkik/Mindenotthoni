@@ -3,6 +3,7 @@ const reset = document.getElementById("reset");
 const i = document.getElementById("i");
 const label = document.getElementById("label");
 let szám = 0;
+console.log(szám)
 
 i.onclick = function () {
   szám++;
