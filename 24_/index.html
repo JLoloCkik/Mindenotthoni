@@ -7,8 +7,22 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-   
-    
+    <form>
+      <h1>Tempurater convertator</h1>
+      <input type="number" id="text" vaule="0" />
+      <br />
+
+      <input type="radio" id="faren" name="unit" />
+      <label for="faren">celsius ➡️ farenhein</label>
+<br>
+      <input type="radio" id="celsius" name="unit" />
+      <label for="celsius">farenhein ➡️ celsius </label>
+      <br>
+      <button type="button" onclick="convert ()">Submint</button>
+      <p id="res">Select a unit</p>
+      
+    </form>
+
     <script src="index.js"></script>
   </body>
 </html>
