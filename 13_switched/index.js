@@ -36,7 +36,7 @@ const u = document.getElementById("u");
 const s = document.getElementById("s");
 
 let day ;
-day = n
+day = 1
 
 
 
