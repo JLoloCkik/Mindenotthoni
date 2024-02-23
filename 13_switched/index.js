@@ -35,6 +35,8 @@ const n = document.getElementById("n");
 const u = document.getElementById("u");
 const s = document.getElementById("s");
 
+n = Number(n);
+
 let day ;
 day = 1
 
